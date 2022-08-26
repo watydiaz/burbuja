@@ -1,0 +1,7 @@
+{
+  "name": "burbujaAseo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
